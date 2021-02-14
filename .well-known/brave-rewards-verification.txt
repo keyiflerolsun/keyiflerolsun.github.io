@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: keyiflerolsun.github.io
+Token: 594e26ca6cb27b83dbf8e6a112d1a5249dd22c13c4ff9dbd5918f4ad74d23cea
