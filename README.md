@@ -6,6 +6,8 @@
     <a href="https://KekikAkademi.org/Kahve" target="_blank"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Kahve%20Ismarla-ffdd00" title="☕️"></a>
   </p>
 
+---
+
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
       <b>İlgi Alanlarım</b>
