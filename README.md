@@ -25,7 +25,7 @@
   ![jQuery](https://img.shields.io/badge/jquery-cD1?style=for-the-badge&logo=jquery&logoColor=EF7F1A&color=2B2A29)
   </details>
 
-  <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
+  <h2 align="center" style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
 
   <div align="center">
     <a target="_blank" href="https://t.me/keyiflerolsun">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=EF7F1A"></a>
