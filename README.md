@@ -43,7 +43,7 @@
     <br/>
   
   <img width="53%" alt="keyiflerolsun'un GitHub İstatistikleri" src="https://github-readme-stats.vercel.app/api?username=keyiflerolsun&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A"/>
-  <img width="45%" alt="keyiflerolsun'un En Çok Kullandığı Diller" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyiflerolsun&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A"/>
+  <img width="44%" alt="keyiflerolsun'un En Çok Kullandığı Diller" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyiflerolsun&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A"/>
 
   </details>
 </samp>
