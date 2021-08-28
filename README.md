@@ -11,7 +11,8 @@
       <b>İlgi Alanlarım</b>
       <i>(genişletmek için tıklayın!)</i>
     </summary>
-
+    <br/>
+  
   ![Manjaro](https://img.shields.io/badge/manjaro-cD1?style=for-the-badge&logo=manjaro&logoColor=EF7F1A&color=2B2A29)
   ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
   ![Flask](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask&logoColor=EF7F1A&color=2B2A29)
