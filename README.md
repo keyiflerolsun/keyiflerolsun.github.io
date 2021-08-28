@@ -6,12 +6,15 @@
     <a href="https://KekikAkademi.org/Kahve" target="_blank"><img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Kahve%20Ismarla-ffdd00" title="☕️"></a>
   </p>
 
+---
+
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
       <b>İlgi Alanlarım</b>
       <i>(genişletmek için tıklayın!)</i>
     </summary>
-
+    <br/>
+  
   ![Manjaro](https://img.shields.io/badge/manjaro-cD1?style=for-the-badge&logo=manjaro&logoColor=EF7F1A&color=2B2A29)
   ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
   ![Flask](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask&logoColor=EF7F1A&color=2B2A29)
@@ -24,7 +27,7 @@
   ![jQuery](https://img.shields.io/badge/jquery-cD1?style=for-the-badge&logo=jquery&logoColor=EF7F1A&color=2B2A29)
   </details>
 
-  <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
+  <h2 align="center" style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
 
   <div align="center">
     <a target="_blank" href="https://t.me/keyiflerolsun">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=EF7F1A"></a>
@@ -39,9 +42,10 @@
       <b>GitHub İstatistikleri</b>
       <i>(genişletmek için tıklayın!)</i>
     </summary>
-
-  ![keyiflerolsun'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=keyiflerolsun&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A)
-  ![keyiflerolsun'un En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=keyiflerolsun&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A)
+    <br/>
+  
+  <img width="53%" alt="keyiflerolsun'un GitHub İstatistikleri" src="https://github-readme-stats.vercel.app/api?username=keyiflerolsun&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A"/>
+  <img width="44%" alt="keyiflerolsun'un En Çok Kullandığı Diller" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyiflerolsun&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A"/>
 
   </details>
 </samp>
