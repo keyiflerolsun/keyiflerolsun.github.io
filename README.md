@@ -1,8 +1,8 @@
-# **[☕️ buymeacoffee](./Kahve.md)**
+**© tüm hakları açık keyfinizce takılın**
 
 * * *
 
-**© tüm hakları açık keyfinizce takılın**
+# **[☕️ buymeacoffee](./Kahve.md)**
 
 * * *
 
