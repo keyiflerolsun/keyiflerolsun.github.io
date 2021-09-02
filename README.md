@@ -1,32 +1,36 @@
+# **[☕️ buymeacoffee](./Kahve.md)**
+
+* * *
+
 **© tüm hakları açık keyfinizce takılın**
 
 * * *
 
-**[⚕ pyHES](https://github.com/keyiflerolsun/pyHES)**
+**[⚕ pyHES](./pyHES)**
 
 > *Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
 
 * * *
 
-**![pyTrendyol](https://www.trendyol.com/frontend/web/assets/images/favicon.ico) [pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol)**
+**![pyTrendyol](https://www.trendyol.com/frontend/web/assets/images/favicon.ico) [pyTrendyol](./pyTrendyol)**
 
 > *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
 
 * * *
 
-**[✂️ KekikSpatula](https://github.com/keyiflerolsun/KekikSpatula)**
+**[✂️ KekikSpatula](./KekikSpatula)**
 
 > *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
 
 * * *
 
-**[🚀 KolektifAPI](https://github.com/keyiflerolsun/KolektifAPI)**
+**[🚀 KolektifAPI](./KolektifAPI)**
 
 > *Flask Tabanlı KekikSpatula API*
 
 * * *
 
-**[🗺️ Risk Yasak Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
+**[🗺️ Risk Yasak Haritasi](./Risk-Yasak_Haritasi)**
 
 > **Flask - jS iş birliği ile Risk Yasak Haritası 🗺**
 >
@@ -34,7 +38,7 @@
 
 * * *
 
-**[🎧 SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram)**
+**[🎧 SpotiTelegram](./SpotiTelegram)**
 
 > **Telegram Biyografinizde `Ne Dinliyorum?` Özelliği 🎧**
 >
@@ -43,31 +47,27 @@
 
 * * *
 
-**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="48" align="center"> KekikTaban](https://github.com/keyiflerolsun/KekikTaban)**
+**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="48" align="center"> KekikTaban](./KekikTaban)**
 
 > *@KekikAkademi adına yazılmış Projelerin Terminal Tabanı ve Biraz Dahası*
 
 * * *
 
-**[🔍 BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
+**[🔍 BTKSorgu](./BTKSorgu)**
 
 > *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
 
 * * *
 
-**[📖 InstaRehber](https://github.com/keyiflerolsun/InstaRehber)**
+**[📖 InstaRehber](./InstaRehber)**
 
 > *Instagram'ın Yedeklediği Rehberin Çeşitli Formatlarda Geri Dönüşümü*
 
 * * *
 
-**[🏙️ TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
+**[🏙️ TRSehirler](./TRSehirler)**
 
 > *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
-
-* * *
-
-## **[☕️ buymeacoffee](./Kahve.md)**
 
 * * *
 
@@ -106,4 +106,4 @@
 
 * * *
 
-# [@KekikAkademi](https://t.me/KekikAkademi) 🕊
+## [@KekikAkademi](https://t.me/KekikAkademi) 🕊
