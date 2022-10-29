@@ -20,4 +20,4 @@
 
 *Benimle iletişime geçmek isterseniz, **Telegram**'dan mesaj göndermekten çekinmeyin;* [@keyiflerolsun](https://t.me/keyiflerolsun)
 
-<h3><a style='text-align: right; font-weight: bold;' href='./'>«« Ana Sayfa 🕊</a></h3>
+<h3 style='text-align: right;'><a style='font-weight: bold;' href='./'>«« Ana Sayfa 🕊</a></h3>
