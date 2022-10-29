@@ -6,18 +6,6 @@
 
 * * *
 
-**[⚕ pyHES](./pyHES)**
-
-> *Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
-
-* * *
-
-**![pyTrendyol](https://www.trendyol.com/frontend/web/assets/images/favicon.ico) [pyTrendyol](./pyTrendyol)**
-
-> *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
-
-* * *
-
 **[✂️ KekikSpatula](./KekikSpatula)**
 
 > *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
@@ -30,11 +18,9 @@
 
 * * *
 
-**[🗺️ Risk Yasak Haritasi](./Risk-Yasak_Haritasi)**
+**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="16" align="center"> Kekik](./Kekik)**
 
-> **Flask - jS iş birliği ile Risk Yasak Haritası 🗺**
->
-> *Risk grubu verileri anlık olarak sağlık bakanlığından alınmaktadır..*
+> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
 
 * * *
 
@@ -47,15 +33,9 @@
 
 * * *
 
-**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="48" align="center"> KekikTaban](./KekikTaban)**
+**![pyTrendyol](https://cdn.dsmcdn.com/web/production/favicon.ico) [pyTrendyol](./pyTrendyol)**
 
-> *@KekikAkademi adına yazılmış Projelerin Terminal Tabanı ve Biraz Dahası*
-
-* * *
-
-**[🔍 BTKSorgu](./BTKSorgu)**
-
-> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
+> *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
 
 * * *
 
@@ -68,6 +48,26 @@
 **[🏙️ TRSehirler](./TRSehirler)**
 
 > *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
+
+* * *
+
+**[⚕ pyHES](./pyHES)**
+
+> *Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
+
+* * *
+
+**[🗺️ Risk Yasak Haritasi](./Risk-Yasak_Haritasi)**
+
+> **Flask - jS iş birliği ile Risk Yasak Haritası 🗺**
+>
+> *Risk grubu verileri anlık olarak sağlık bakanlığından alınmaktadır..*
+
+* * *
+
+**[🔍 BTKSorgu](./BTKSorgu)**
+
+> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
 
 * * *
 
