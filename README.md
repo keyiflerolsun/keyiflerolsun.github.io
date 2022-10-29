@@ -18,7 +18,7 @@
 
 * * *
 
-**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="16" align="center"> Kekik](./Kekik)**
+**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="22" align="center"> Kekik](./Kekik)**
 
 > *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
 
