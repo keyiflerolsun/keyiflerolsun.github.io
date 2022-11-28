@@ -6,6 +6,10 @@
 
 * * *
 
+<a rel="me" href="https://masto.ai/@keyiflerolsun">Mastodon</a>
+
+* * *
+
 **[✂️ KekikSpatula](./KekikSpatula)**
 
 > *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
