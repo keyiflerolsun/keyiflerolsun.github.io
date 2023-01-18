@@ -12,7 +12,7 @@
 | **» USDT**           | `TGyt54Xiy1HyMCM1Ur3YBXUiMS56nx7nUs`          | *TRC20*             |
 
 
-💸 **— [PayTR](https://www.paytr.com/link/PUDoFkP) | [iyzico](https://shopier.com/5371982) | [Shopier](https://shopier.com/5371982) —**
+### 💸 **— [PayTR](https://www.paytr.com/link/PUDoFkP) | [iyzico](https://shopier.com/5371982) | [Shopier](https://shopier.com/5371982) —**
 
 * * *
 
