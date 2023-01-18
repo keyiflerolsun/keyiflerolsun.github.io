@@ -2,19 +2,22 @@
 
 *Çay olur, çorba olur, fitre olur, zekat olur; kenarda dursun, belki bişi denemek isteyen olur.. 🕊*
 
-**— 💸 [Shopier](https://shopier.com/5371982) —**
 
 | Banka                | IBAN                                          | Ad Soyad            |
 |:---------------------|:----------------------------------------------|:--------------------|
+| **» EnPara**         | **TR**`70 0011 1000 0000 0118 5102 59`        | *Ömer Faruk Sancak* |
+| **» Papara**         | `2146190740`                                  | *Ömer Faruk Sancak* |
 | **» BTC**            | `17gorQkpoSAZMghKiFS7T7pRrYWTdJoyUm`          | *BTC*               |
 | **» BNB**            | `0x46d9c33e7603fd9902f31a56b64cbee5e4b1f2cc`  | *BEP20*             |
 | **» USDT**           | `TGyt54Xiy1HyMCM1Ur3YBXUiMS56nx7nUs`          | *TRC20*             |
-| **» Papara**         | `2146190740`                                  | *Ömer Faruk Sancak* |
+
+
+💸 **— [PayTR](https://www.paytr.com/link/PUDoFkP) | [iyzico](https://shopier.com/5371982) | [Shopier](https://shopier.com/5371982) —**
 
 * * *
 
 ## ♻️ İletişim
 
-*Benimle iletişime geçmek isterseniz, **Telegram**'dan mesaj göndermekten çekinmeyin;* [@keyiflerolsun](https://t.me/keyiflerolsun)
+*Benimle iletişime geçmek isterseniz, **Telegram**'dan mesaj göndermekten çekinmeyin;* [@keyiflerolsun](https://t.me/keyiflerolsunDev)
 
 <h3 style='text-align: right;'><a style='font-weight: bold;' href='./'>«« Ana Sayfa 🕊</a></h3>
