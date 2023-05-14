@@ -32,13 +32,13 @@
 
 **[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
 
-> *Instant Data Scraper | Türkçe ve Karanlık Tema Mod*
+> *Instant Data Scraper - Türkçe ve Karanlık Tema Mod*
 
 * * *
 
 **[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
 
-> *Sunucunuzu Proxy Server'a Dönüştürün | 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
+> *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
 
 * * *
 
@@ -122,7 +122,7 @@
 
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
-> *Python | Requests » Spotify Takipçi Botu*
+> *Python - Requests » Spotify Takipçi Botu*
 
 * * *
 
@@ -140,7 +140,7 @@
 
 **[ntvHaber](https://github.com/keyiflerolsun/ntvHaber)**
 
-> *Python Yazılımların Python ve Flatpak olarak Paketlenme Örneği | \w @flet-dev*
+> *Python Yazılımların Python ve Flatpak olarak Paketlenme Örneği - \w @flet-dev*
 
 * * *
 
@@ -164,7 +164,7 @@
 
 **[PlusAPI](https://github.com/keyiflerolsun/PlusAPI)**
 
-> *PlusAPI | Piyasa Verileri | Python*
+> *PlusAPI - Piyasa Verileri - Python*
 
 * * *
 
