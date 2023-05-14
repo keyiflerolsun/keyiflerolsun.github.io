@@ -5,7 +5,7 @@ from ghapi.all import GhApi
 api     = GhApi()
 repolar = [
     repo for repo in api.repos.list_for_user(username="keyiflerolsun", per_page=100, sort="pushed")
-        if repo.get("homepage") and repo.get("stargazers_count") > 3
+        if repo.get("homepage") and repo.get("stargazers_count") >= 3
 ]
 repolar = sorted(repolar, key=lambda veri: veri["stargazers_count"], reverse=True)
 
