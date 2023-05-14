@@ -6,123 +6,171 @@
 
 ***
 
-**[KekikSpatula](https://pypi.org/project/KekikSpatula/)**
+**[KekikSpatula](https://github.com/keyiflerolsun/KekikSpatula)**
 
 > *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
 
 * * *
 
-**[pyHES](https://pypi.org/project/pyHES)**
+**[pyHES](https://github.com/keyiflerolsun/pyHES)**
 
 > *⚕ Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
 
 * * *
 
-**[pyTrendyol](https://pypi.org/project/pyTrendyol)**
+**[pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol)**
 
 > *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
 
 * * *
 
-**[A101AktuelRobot](https://t.me/A101AktuelSayfalar)**
+**[A101AktuelRobot](https://github.com/keyiflerolsun/A101AktuelRobot)**
 
 > *Github Workflows üzerinde Çalışan A101 Aktüel Telegam Bot*
 
 * * *
 
-**[InstantVeriAyiklayici](https://keyiflerolsun.me/Kahve)**
+**[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
 
 > *Instant Data Scraper | Türkçe ve Karanlık Tema Mod*
 
 * * *
 
-**[CentOS_Proxi](https://keyiflerolsun.me/CentOS_Proxi)**
+**[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
 
 > *Sunucunuzu Proxy Server'a Dönüştürün | 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
 
 * * *
 
-**[BTKSorgu](https://pypi.org/project/BTKSorgu/)**
+**[BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
 
 > *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
 
 * * *
 
-**[E-Fatura_Sorgu](https://pypi.org/project/eFatura)**
+**[E-Fatura_Sorgu](https://github.com/keyiflerolsun/E-Fatura_Sorgu)**
 
 > *Vergi veya TC Kimlik Numarasından E-Fatura Mükellefiyet Sorgusu*
 
 * * *
 
-**[Risk-Yasak_Haritasi](https://riskharitasi-keyiflerolsun.cloud.okteto.net/)**
+**[Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
 
 > *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
 
 * * *
 
-**[SpotiTelegram](https://KekikAkademi.org/Kahve)**
+**[SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram)**
 
 > *Telegram Biyografinizde Ne Dinliyorum Özelliği..*
 
 * * *
 
-**[KekikSuser](https://KekikAkademi.org/Kahve)**
+**[KekikSuser](https://github.com/keyiflerolsun/KekikSuser)**
 
 > *Telegram Gruptan Gruba User Ekleme*
 
 * * *
 
-**[TRSehirler](https://pypi.org/project/TRSehirler/)**
+**[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
 
 > *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
 
 * * *
 
-**[KolektifAPI](https://kolektifapi.kekikakademi.org/)**
+**[.dotfiles](https://github.com/keyiflerolsun/.dotfiles)**
+
+> */etc/keyiflerolsun*
+
+* * *
+
+**[KolektifAPI](https://github.com/keyiflerolsun/KolektifAPI)**
 
 > *Flask Tabanlı KekikSpatula API*
 
 * * *
 
-**[Kekik](https://pypi.org/project/Kekik)**
+**[keyifTk](https://github.com/keyiflerolsun/keyifTk)**
+
+> *Tkinter Taban Dosyaları*
+
+* * *
+
+**[IstihdamProje](https://github.com/keyiflerolsun/IstihdamProje)**
+
+> *indeed - glassdoor için crawler ve api*
+
+* * *
+
+**[Kekik](https://github.com/keyiflerolsun/Kekik)**
 
 > *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
 
 * * *
 
-**[Telegram-Telefon-Ayiklayici](https://youtu.be/Iznwi-GhL0M)**
+**[docker-compose_Yenir_Mi](https://github.com/keyiflerolsun/docker-compose_Yenir_Mi)**
+
+> *docker-compose » Python (Flask Restful) & PHP Örnek Deposu*
+
+* * *
+
+**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
+
+> *IPTV üzerine Kendime Notlar*
+
+* * *
+
+**[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
+
+> *Python | Requests » Spotify Takipçi Botu*
+
+* * *
+
+**[Telegram-Telefon-Ayiklayici](https://github.com/keyiflerolsun/Telegram-Telefon-Ayiklayici)**
 
 > *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
 
 * * *
 
-**[ntvHaber](https://pypi.org/project/ntvHaber/)**
+**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
+
+> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
+
+* * *
+
+**[ntvHaber](https://github.com/keyiflerolsun/ntvHaber)**
 
 > *Python Yazılımların Python ve Flatpak olarak Paketlenme Örneği | \w @flet-dev*
 
 * * *
 
-**[KeeneticPy](https://pypi.org/project/KeeneticPy)**
+**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
 
 > *Python Lib for Keenetic Routers*
 
 * * *
 
-**[KekikHava](http://hava.kekikakademi.org/)**
+**[KekikHava](https://github.com/keyiflerolsun/KekikHava)**
 
 > *@flet-dev Örnek Proje*
 
 * * *
 
-**[InstaRehber](https://kekikakademi.org)**
+**[InstaRehber](https://github.com/keyiflerolsun/InstaRehber)**
 
 > *Instagram'ın Yedeklediği Rehberin Çeşitli Formatlarda Geri Dönüşümü*
 
 * * *
 
-**[PlusAPI](https://plusapi.org)**
+**[PlusAPI](https://github.com/keyiflerolsun/PlusAPI)**
 
 > *PlusAPI | Piyasa Verileri | Python*
+
+* * *
+
+**[pySistemEkrani](https://github.com/keyiflerolsun/pySistemEkrani)**
+
+> *Çevrimiçi Sistem Bilgi Ekranı (Açıklama Eklenecek)*
 
 * * *
 
