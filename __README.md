@@ -3,6 +3,8 @@
 * * *
 
 # **[☕️ buymeacoffee](./Kahve.md)**
+
+***
 {{ ÇOKOMELLİ }}
 *“Believe me, the world won't give you any gifts. If you want to have a life, steal it.”* ~ **Andreas Salome**
 

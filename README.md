@@ -4,13 +4,11 @@
 
 # **[☕️ buymeacoffee](./Kahve.md)**
 
-* * *
+***
 
 **[KekikSpatula](https://pypi.org/project/KekikSpatula/)**
 
 > *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
-
-* * *
 
 * * *
 
@@ -20,13 +18,9 @@
 
 * * *
 
-* * *
-
 **[pyTrendyol](https://pypi.org/project/pyTrendyol)**
 
 > *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
-
-* * *
 
 * * *
 
@@ -36,13 +30,9 @@
 
 * * *
 
-* * *
-
 **[InstantVeriAyiklayici](https://keyiflerolsun.me/Kahve)**
 
 > *Instant Data Scraper | Türkçe ve Karanlık Tema Mod*
-
-* * *
 
 * * *
 
@@ -52,13 +42,9 @@
 
 * * *
 
-* * *
-
 **[BTKSorgu](https://pypi.org/project/BTKSorgu/)**
 
 > *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
-
-* * *
 
 * * *
 
@@ -68,13 +54,9 @@
 
 * * *
 
-* * *
-
 **[Risk-Yasak_Haritasi](https://riskharitasi-keyiflerolsun.cloud.okteto.net/)**
 
 > *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
-
-* * *
 
 * * *
 
@@ -84,13 +66,9 @@
 
 * * *
 
-* * *
-
 **[KekikSuser](https://KekikAkademi.org/Kahve)**
 
 > *Telegram Gruptan Gruba User Ekleme*
-
-* * *
 
 * * *
 
@@ -100,13 +78,9 @@
 
 * * *
 
-* * *
-
 **[KolektifAPI](https://kolektifapi.kekikakademi.org/)**
 
 > *Flask Tabanlı KekikSpatula API*
-
-* * *
 
 * * *
 
@@ -116,13 +90,9 @@
 
 * * *
 
-* * *
-
 **[Telegram-Telefon-Ayiklayici](https://youtu.be/Iznwi-GhL0M)**
 
 > *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
-
-* * *
 
 * * *
 
@@ -132,13 +102,9 @@
 
 * * *
 
-* * *
-
 **[KeeneticPy](https://pypi.org/project/KeeneticPy)**
 
 > *Python Lib for Keenetic Routers*
-
-* * *
 
 * * *
 
@@ -148,13 +114,9 @@
 
 * * *
 
-* * *
-
 **[InstaRehber](https://kekikakademi.org)**
 
 > *Instagram'ın Yedeklediği Rehberin Çeşitli Formatlarda Geri Dönüşümü*
-
-* * *
 
 * * *
 
