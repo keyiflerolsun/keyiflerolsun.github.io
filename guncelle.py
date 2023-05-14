@@ -16,7 +16,7 @@ eklenecek_metin = "".join(
     f"""
 **[{repo.get("name")}](https://github.com/keyiflerolsun/{repo.get("name")})**
 
-> *{repo.get("description")}*
+> *{repo.get("description").replace("|", "-")}*
 
 * * *
 """
