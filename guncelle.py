@@ -1,8 +1,6 @@
 # Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
 from ghapi.all import GhApi
-from datetime  import datetime
-from pytz      import timezone
 
 api     = GhApi()
 repolar = [
