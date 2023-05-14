@@ -6,72 +6,105 @@
 
 * * *
 
-<a rel="me" href="https://masto.ai/@keyiflerolsun">Mastodon</a>
-
-* * *
-
-**[✂️ KekikSpatula](./KekikSpatula)**
+**[KekikSpatula](https://pypi.org/project/KekikSpatula/)**
 
 > *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
 
 * * *
 
-**[🚀 KolektifAPI](./KolektifAPI)**
+* * *
 
-> *Flask Tabanlı KekikSpatula API*
+**[pyHES](https://pypi.org/project/pyHES)**
+
+> *⚕ Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
 
 * * *
 
-**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="22" align="center"> Kekik](./Kekik)**
-
-> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
-
 * * *
 
-**[🎧 SpotiTelegram](./SpotiTelegram)**
-
-> **Telegram Biyografinizde `Ne Dinliyorum?` Özelliği 🎧**
->
-> *Eskiden MSN'de olduğu gibi anlık olarak dinlediğiniz şarkıyı gösteren bir proje..*
-*Spotify'dan anlık olarak dinlediğiniz müziği çeker ve Telegram biyografinize ekler.*
-
-* * *
-
-**![pyTrendyol](https://cdn.dsmcdn.com/web/production/favicon.ico) [pyTrendyol](./pyTrendyol)**
+**[pyTrendyol](https://pypi.org/project/pyTrendyol)**
 
 > *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
 
 * * *
 
-**[📖 InstaRehber](./InstaRehber)**
+* * *
 
-> *Instagram'ın Yedeklediği Rehberin Çeşitli Formatlarda Geri Dönüşümü*
+**[A101AktuelRobot](https://t.me/A101AktuelSayfalar)**
+
+> *Github Workflows üzerinde Çalışan A101 Aktüel Telegam Bot*
 
 * * *
 
-**[🏙️ TRSehirler](./TRSehirler)**
+* * *
+
+**[InstantVeriAyiklayici](https://keyiflerolsun.me/Kahve)**
+
+> *Instant Data Scraper | Türkçe ve Karanlık Tema Mod*
+
+* * *
+
+* * *
+
+**[CentOS_Proxi](https://keyiflerolsun.me/CentOS_Proxi)**
+
+> *Sunucunuzu Proxy Server'a Dönüştürün | 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
+
+* * *
+
+* * *
+
+**[BTKSorgu](https://pypi.org/project/BTKSorgu/)**
+
+> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
+
+* * *
+
+* * *
+
+**[E-Fatura_Sorgu](https://pypi.org/project/eFatura)**
+
+> *Vergi veya TC Kimlik Numarasından E-Fatura Mükellefiyet Sorgusu*
+
+* * *
+
+* * *
+
+**[Risk-Yasak_Haritasi](https://riskharitasi-keyiflerolsun.cloud.okteto.net/)**
+
+> *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
+
+* * *
+
+* * *
+
+**[SpotiTelegram](https://KekikAkademi.org/Kahve)**
+
+> *Telegram Biyografinizde Ne Dinliyorum Özelliği..*
+
+* * *
+
+* * *
+
+**[KekikSuser](https://KekikAkademi.org/Kahve)**
+
+> *Telegram Gruptan Gruba User Ekleme*
+
+* * *
+
+* * *
+
+**[TRSehirler](https://pypi.org/project/TRSehirler/)**
 
 > *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
 
 * * *
 
-**[⚕ pyHES](./pyHES)**
-
-> *Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
-
 * * *
 
-**[🗺️ Risk Yasak Haritasi](./Risk-Yasak_Haritasi)**
+**[KolektifAPI](https://kolektifapi.kekikakademi.org/)**
 
-> **Flask - jS iş birliği ile Risk Yasak Haritası 🗺**
->
-> *Risk grubu verileri anlık olarak sağlık bakanlığından alınmaktadır..*
-
-* * *
-
-**[🔍 BTKSorgu](./BTKSorgu)**
-
-> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
+> *Flask Tabanlı KekikSpatula API*
 
 * * *
 
