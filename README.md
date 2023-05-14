@@ -108,6 +108,62 @@
 
 * * *
 
+* * *
+
+**[Kekik](https://pypi.org/project/Kekik)**
+
+> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
+
+* * *
+
+* * *
+
+**[Telegram-Telefon-Ayiklayici](https://youtu.be/Iznwi-GhL0M)**
+
+> *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
+
+* * *
+
+* * *
+
+**[ntvHaber](https://pypi.org/project/ntvHaber/)**
+
+> *Python Yazılımların Python ve Flatpak olarak Paketlenme Örneği | \w @flet-dev*
+
+* * *
+
+* * *
+
+**[KeeneticPy](https://pypi.org/project/KeeneticPy)**
+
+> *Python Lib for Keenetic Routers*
+
+* * *
+
+* * *
+
+**[KekikHava](http://hava.kekikakademi.org/)**
+
+> *@flet-dev Örnek Proje*
+
+* * *
+
+* * *
+
+**[InstaRehber](https://kekikakademi.org)**
+
+> *Instagram'ın Yedeklediği Rehberin Çeşitli Formatlarda Geri Dönüşümü*
+
+* * *
+
+* * *
+
+**[PlusAPI](https://plusapi.org)**
+
+> *PlusAPI | Piyasa Verileri | Python*
+
+* * *
+
 *“Believe me, the world won't give you any gifts. If you want to have a life, steal it.”* ~ **Andreas Salome**
 
 `Dünya Sana Hediye Sunmaz, İnan Bana. Bir Yaşam İstiyorsan, Çal Onu!`
