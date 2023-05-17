@@ -2,4 +2,5 @@
 
 theme          : jekyll-theme-cayman
 show_downloads : false
+include        : [".well-known"]
 title          : keyiflerolsun 🕊
