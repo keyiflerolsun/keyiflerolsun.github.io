@@ -132,15 +132,15 @@
 
 * * *
 
-**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
-
-> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
-
-* * *
-
 **[ntvHaber](https://github.com/keyiflerolsun/ntvHaber)**
 
 > *Python Yazılımların Python ve Flatpak olarak Paketlenme Örneği - \w @flet-dev*
+
+* * *
+
+**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
+
+> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
 
 * * *
 
