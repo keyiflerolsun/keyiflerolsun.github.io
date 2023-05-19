@@ -24,6 +24,12 @@
 
 * * *
 
+**[BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
+
+> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
+
+* * *
+
 **[A101AktuelRobot](https://github.com/keyiflerolsun/A101AktuelRobot)**
 
 > *Github Workflows üzerinde Çalışan A101 Aktüel Telegam Bot*
@@ -42,13 +48,7 @@
 
 * * *
 
-**[BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
-
-> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
-
-* * *
-
-**[E-Fatura_Sorgu](https://github.com/keyiflerolsun/E-Fatura_Sorgu)**
+**[eFatura](https://github.com/keyiflerolsun/eFatura)**
 
 > *Vergi veya TC Kimlik Numarasından E-Fatura Mükellefiyet Sorgusu*
 
