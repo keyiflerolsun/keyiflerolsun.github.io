@@ -114,6 +114,12 @@
 
 * * *
 
+**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
+
+> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
+
+* * *
+
 **[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
 
 > *IPTV üzerine Kendime Notlar*
@@ -135,12 +141,6 @@
 **[ntvHaber](https://github.com/keyiflerolsun/ntvHaber)**
 
 > *Python Yazılımların Python ve Flatpak olarak Paketlenme Örneği - \w @flet-dev*
-
-* * *
-
-**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
-
-> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
 
 * * *
 
