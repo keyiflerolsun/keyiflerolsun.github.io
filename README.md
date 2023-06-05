@@ -36,6 +36,12 @@
 
 * * *
 
+**[eFatura](https://github.com/keyiflerolsun/eFatura)**
+
+> *Vergi veya TC Kimlik Numarasından E-Fatura Mükellefiyet Sorgusu*
+
+* * *
+
 **[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
 
 > *Instant Data Scraper - Türkçe ve Karanlık Tema Mod*
@@ -45,12 +51,6 @@
 **[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
 
 > *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
-
-* * *
-
-**[eFatura](https://github.com/keyiflerolsun/eFatura)**
-
-> *Vergi veya TC Kimlik Numarasından E-Fatura Mükellefiyet Sorgusu*
 
 * * *
 
