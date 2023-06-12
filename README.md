@@ -72,15 +72,15 @@
 
 * * *
 
-**[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
-
-> *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
-
-* * *
-
 **[.dotfiles](https://github.com/keyiflerolsun/.dotfiles)**
 
 > */etc/keyiflerolsun*
+
+* * *
+
+**[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
+
+> *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
 
 * * *
 
