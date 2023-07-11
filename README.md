@@ -120,12 +120,6 @@
 
 * * *
 
-**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
-
-> *Python Lib for Keenetic Routers*
-
-* * *
-
 **[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
 
 > *IPTV üzerine Kendime Notlar*
@@ -153,6 +147,12 @@
 **[ntvHaber](https://github.com/keyiflerolsun/ntvHaber)**
 
 > *Python Yazılımların Python ve Flatpak olarak Paketlenme Örneği - \w @flet-dev*
+
+* * *
+
+**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
+
+> *Python Lib for Keenetic Routers*
 
 * * *
 
