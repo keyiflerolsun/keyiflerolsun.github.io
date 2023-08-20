@@ -24,15 +24,15 @@
 
 * * *
 
-**[BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
-
-> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
-
-* * *
-
 **[eFatura](https://github.com/keyiflerolsun/eFatura)**
 
 > *Vergi veya TC Kimlik Numarasından E-Fatura Mükellefiyet Sorgusu*
+
+* * *
+
+**[BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
+
+> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
 
 * * *
 
@@ -102,12 +102,6 @@
 
 * * *
 
-**[Kekik](https://github.com/keyiflerolsun/Kekik)**
-
-> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
-
-* * *
-
 **[docker-compose_Yenir_Mi](https://github.com/keyiflerolsun/docker-compose_Yenir_Mi)**
 
 > *docker-compose » Python (Flask Restful) & PHP Örnek Deposu*
@@ -141,6 +135,12 @@
 **[eArsivPortal](https://github.com/keyiflerolsun/eArsivPortal)**
 
 > *GİB e-Arşiv Portal e-Fatura Oluşturucu*
+
+* * *
+
+**[Kekik](https://github.com/keyiflerolsun/Kekik)**
+
+> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
 
 * * *
 
