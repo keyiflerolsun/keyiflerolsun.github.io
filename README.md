@@ -126,6 +126,12 @@
 
 * * *
 
+**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
+
+> *Python Lib for Keenetic Routers*
+
+* * *
+
 **[eArsivPortal](https://github.com/keyiflerolsun/eArsivPortal)**
 
 > *GİB e-Arşiv Portal e-Fatura Oluşturucu*
@@ -153,12 +159,6 @@
 **[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
 
 > *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
-
-* * *
-
-**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
-
-> *Python Lib for Keenetic Routers*
 
 * * *
 
