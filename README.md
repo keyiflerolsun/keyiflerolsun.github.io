@@ -42,15 +42,21 @@
 
 * * *
 
+**[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
+
+> *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
+
+* * *
+
 **[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
 
 > *Instant Data Scraper - Türkçe ve Karanlık Tema Mod*
 
 * * *
 
-**[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
+**[.dotfiles](https://github.com/keyiflerolsun/.dotfiles)**
 
-> *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
+> */etc/keyiflerolsun*
 
 * * *
 
@@ -72,12 +78,6 @@
 
 * * *
 
-**[.dotfiles](https://github.com/keyiflerolsun/.dotfiles)**
-
-> */etc/keyiflerolsun*
-
-* * *
-
 **[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
 
 > *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
@@ -96,12 +96,6 @@
 
 * * *
 
-**[IstihdamProje](https://github.com/keyiflerolsun/IstihdamProje)**
-
-> *indeed - glassdoor için crawler ve api*
-
-* * *
-
 **[eArsivPortal](https://github.com/keyiflerolsun/eArsivPortal)**
 
 > *GİB e-Arşiv Portal e-Fatura Oluşturucu*
@@ -114,21 +108,15 @@
 
 * * *
 
-**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
-
-> *IPTV üzerine Kendime Notlar*
-
-* * *
-
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
 > *Python - Requests » Spotify Takipçi Botu*
 
 * * *
 
-**[Telegram-Telefon-Ayiklayici](https://github.com/keyiflerolsun/Telegram-Telefon-Ayiklayici)**
+**[IstihdamProje](https://github.com/keyiflerolsun/IstihdamProje)**
 
-> *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
+> *indeed - glassdoor için crawler ve api*
 
 * * *
 
@@ -144,12 +132,6 @@
 
 * * *
 
-**[Kekik](https://github.com/keyiflerolsun/Kekik)**
-
-> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
-
-* * *
-
 **[ntvHaber](https://github.com/keyiflerolsun/ntvHaber)**
 
 > *Python Yazılımların Python ve Flatpak olarak Paketlenme Örneği - \w @flet-dev*
@@ -162,27 +144,15 @@
 
 * * *
 
-**[KekikHava](https://github.com/keyiflerolsun/KekikHava)**
+**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
 
-> *@flet-dev Örnek Proje*
-
-* * *
-
-**[InstaRehber](https://github.com/keyiflerolsun/InstaRehber)**
-
-> *Instagram'ın Yedeklediği Rehberin Çeşitli Formatlarda Geri Dönüşümü*
+> *IPTV üzerine Kendime Notlar*
 
 * * *
 
-**[PlusAPI](https://github.com/keyiflerolsun/PlusAPI)**
+**[Telegram-Telefon-Ayiklayici](https://github.com/keyiflerolsun/Telegram-Telefon-Ayiklayici)**
 
-> *PlusAPI - Piyasa Verileri - Python*
-
-* * *
-
-**[pySistemEkrani](https://github.com/keyiflerolsun/pySistemEkrani)**
-
-> *Çevrimiçi Sistem Bilgi Ekranı (Açıklama Eklenecek)*
+> *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
 
 * * *
 
