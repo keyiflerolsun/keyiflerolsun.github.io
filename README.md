@@ -108,6 +108,12 @@
 
 * * *
 
+**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
+
+> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
+
+* * *
+
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
 > *Python - Requests » Spotify Takipçi Botu*
@@ -135,12 +141,6 @@
 **[ntvHaber](https://github.com/keyiflerolsun/ntvHaber)**
 
 > *Python Yazılımların Python ve Flatpak olarak Paketlenme Örneği - \w @flet-dev*
-
-* * *
-
-**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
-
-> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
 
 * * *
 
