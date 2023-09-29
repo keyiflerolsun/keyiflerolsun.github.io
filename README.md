@@ -54,12 +54,6 @@
 
 * * *
 
-**[.dotfiles](https://github.com/keyiflerolsun/.dotfiles)**
-
-> */etc/keyiflerolsun*
-
-* * *
-
 **[Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
 
 > *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
@@ -78,6 +72,12 @@
 
 * * *
 
+**[.dotfiles](https://github.com/keyiflerolsun/.dotfiles)**
+
+> */etc/keyiflerolsun*
+
+* * *
+
 **[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
 
 > *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
@@ -87,6 +87,18 @@
 **[keyifTk](https://github.com/keyiflerolsun/keyifTk)**
 
 > *Tkinter Taban Dosyaları*
+
+* * *
+
+**[KolektifAPI](https://github.com/keyiflerolsun/KolektifAPI)**
+
+> *Flask Tabanlı KekikSpatula API*
+
+* * *
+
+**[IstihdamProje](https://github.com/keyiflerolsun/IstihdamProje)**
+
+> *indeed - glassdoor için crawler ve api*
 
 * * *
 
@@ -108,21 +120,21 @@
 
 * * *
 
+**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
+
+> *IPTV üzerine Kendime Notlar*
+
+* * *
+
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
 > *Python - Requests » Spotify Takipçi Botu*
 
 * * *
 
-**[KolektifAPI](https://github.com/keyiflerolsun/KolektifAPI)**
+**[Telegram-Telefon-Ayiklayici](https://github.com/keyiflerolsun/Telegram-Telefon-Ayiklayici)**
 
-> *Flask Tabanlı KekikSpatula API*
-
-* * *
-
-**[IstihdamProje](https://github.com/keyiflerolsun/IstihdamProje)**
-
-> *indeed - glassdoor için crawler ve api*
+> *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
 
 * * *
 
@@ -138,21 +150,39 @@
 
 * * *
 
+**[Kekik](https://github.com/keyiflerolsun/Kekik)**
+
+> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
+
+* * *
+
 **[ntvHaber](https://github.com/keyiflerolsun/ntvHaber)**
 
 > *Python Yazılımların Python ve Flatpak olarak Paketlenme Örneği - \w @flet-dev*
 
 * * *
 
-**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
+**[KekikHava](https://github.com/keyiflerolsun/KekikHava)**
 
-> *IPTV üzerine Kendime Notlar*
+> *@flet-dev Örnek Proje*
 
 * * *
 
-**[Telegram-Telefon-Ayiklayici](https://github.com/keyiflerolsun/Telegram-Telefon-Ayiklayici)**
+**[InstaRehber](https://github.com/keyiflerolsun/InstaRehber)**
 
-> *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
+> *Instagram'ın Yedeklediği Rehberin Çeşitli Formatlarda Geri Dönüşümü*
+
+* * *
+
+**[PlusAPI](https://github.com/keyiflerolsun/PlusAPI)**
+
+> *PlusAPI - Piyasa Verileri - Python*
+
+* * *
+
+**[pySistemEkrani](https://github.com/keyiflerolsun/pySistemEkrani)**
+
+> *Çevrimiçi Sistem Bilgi Ekranı (Açıklama Eklenecek)*
 
 * * *
 
