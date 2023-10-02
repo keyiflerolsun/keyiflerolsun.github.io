@@ -102,6 +102,12 @@
 
 * * *
 
+**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
+
+> *IPTV üzerine Kendime Notlar*
+
+* * *
+
 **[eArsivPortal](https://github.com/keyiflerolsun/eArsivPortal)**
 
 > *GİB e-Arşiv Portal e-Fatura Oluşturucu*
@@ -117,12 +123,6 @@
 **[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
 
 > *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
-
-* * *
-
-**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
-
-> *IPTV üzerine Kendime Notlar*
 
 * * *
 
