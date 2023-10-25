@@ -90,6 +90,12 @@
 
 * * *
 
+**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
+
+> *IPTV üzerine Kendime Notlar*
+
+* * *
+
 **[eArsivPortal](https://github.com/keyiflerolsun/eArsivPortal)**
 
 > *GİB e-Arşiv Portal e-Fatura Oluşturucu*
@@ -105,12 +111,6 @@
 **[IstihdamProje](https://github.com/keyiflerolsun/IstihdamProje)**
 
 > *indeed - glassdoor için crawler ve api*
-
-* * *
-
-**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
-
-> *IPTV üzerine Kendime Notlar*
 
 * * *
 
@@ -135,6 +135,12 @@
 **[Telegram-Telefon-Ayiklayici](https://github.com/keyiflerolsun/Telegram-Telefon-Ayiklayici)**
 
 > *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
+
+* * *
+
+**[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
+
+> *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
 
 * * *
 
