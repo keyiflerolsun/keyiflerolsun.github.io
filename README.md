@@ -114,6 +114,12 @@
 
 * * *
 
+**[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
+
+> *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
+
+* * *
+
 **[docker-compose_Yenir_Mi](https://github.com/keyiflerolsun/docker-compose_Yenir_Mi)**
 
 > *docker-compose » Python (Flask Restful) & PHP Örnek Deposu*
@@ -135,12 +141,6 @@
 **[Telegram-Telefon-Ayiklayici](https://github.com/keyiflerolsun/Telegram-Telefon-Ayiklayici)**
 
 > *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
-
-* * *
-
-**[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
-
-> *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
 
 * * *
 
