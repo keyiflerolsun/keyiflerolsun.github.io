@@ -84,6 +84,12 @@
 
 * * *
 
+**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
+
+> *IPTV üzerine Kendime Notlar*
+
+* * *
+
 **[eArsivPortal](https://github.com/keyiflerolsun/eArsivPortal)**
 
 > *GİB e-Arşiv Portal e-Fatura Oluşturucu*
@@ -96,9 +102,9 @@
 
 * * *
 
-**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
+**[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
 
-> *IPTV üzerine Kendime Notlar*
+> *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
 
 * * *
 
@@ -111,12 +117,6 @@
 **[IstihdamProje](https://github.com/keyiflerolsun/IstihdamProje)**
 
 > *indeed - glassdoor için crawler ve api*
-
-* * *
-
-**[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
-
-> *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
 
 * * *
 
@@ -159,12 +159,6 @@
 **[Kekik](https://github.com/keyiflerolsun/Kekik)**
 
 > *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
-
-* * *
-
-**[ntvHaber](https://github.com/keyiflerolsun/ntvHaber)**
-
-> *Python Yazılımların Python ve Flatpak olarak Paketlenme Örneği - \w @flet-dev*
 
 * * *
 
