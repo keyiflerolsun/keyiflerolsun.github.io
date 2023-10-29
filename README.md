@@ -90,6 +90,12 @@
 
 * * *
 
+**[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
+
+> *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
+
+* * *
+
 **[eArsivPortal](https://github.com/keyiflerolsun/eArsivPortal)**
 
 > *GİB e-Arşiv Portal e-Fatura Oluşturucu*
@@ -99,12 +105,6 @@
 **[keyifTk](https://github.com/keyiflerolsun/keyifTk)**
 
 > *Tkinter Taban Dosyaları*
-
-* * *
-
-**[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
-
-> *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
 
 * * *
 
