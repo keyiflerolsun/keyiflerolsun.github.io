@@ -84,15 +84,15 @@
 
 * * *
 
-**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
-
-> *IPTV üzerine Kendime Notlar*
-
-* * *
-
 **[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
 
 > *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
+
+* * *
+
+**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
+
+> *IPTV üzerine Kendime Notlar*
 
 * * *
 
