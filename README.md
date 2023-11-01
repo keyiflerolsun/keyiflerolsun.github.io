@@ -72,6 +72,12 @@
 
 * * *
 
+**[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
+
+> *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
+
+* * *
+
 **[.dotfiles](https://github.com/keyiflerolsun/.dotfiles)**
 
 > */etc/keyiflerolsun*
@@ -81,12 +87,6 @@
 **[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
 
 > *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
-
-* * *
-
-**[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
-
-> *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
 
 * * *
 
@@ -105,6 +105,12 @@
 **[keyifTk](https://github.com/keyiflerolsun/keyifTk)**
 
 > *Tkinter Taban Dosyaları*
+
+* * *
+
+**[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
+
+> *Python - Requests » Spotify Takipçi Botu*
 
 * * *
 
@@ -129,12 +135,6 @@
 **[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
 
 > *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
-
-* * *
-
-**[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
-
-> *Python - Requests » Spotify Takipçi Botu*
 
 * * *
 
