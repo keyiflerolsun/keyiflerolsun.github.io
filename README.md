@@ -24,15 +24,15 @@
 
 * * *
 
-**[BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
-
-> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
-
-* * *
-
 **[eFatura](https://github.com/keyiflerolsun/eFatura)**
 
 > *Vergi veya TC Kimlik Numarasından E-Fatura Mükellefiyet Sorgusu*
+
+* * *
+
+**[BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
+
+> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
 
 * * *
 
