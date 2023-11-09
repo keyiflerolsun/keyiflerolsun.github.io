@@ -42,6 +42,12 @@
 
 * * *
 
+**[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
+
+> *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
+
+* * *
+
 **[Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
 
 > *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
@@ -60,6 +66,12 @@
 
 * * *
 
+**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
+
+> *IPTV üzerine Kendime Notlar*
+
+* * *
+
 **[SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram)**
 
 > *Telegram Biyografinizde Ne Dinliyorum Özelliği..*
@@ -69,18 +81,6 @@
 **[KekikSuser](https://github.com/keyiflerolsun/KekikSuser)**
 
 > *Telegram Gruptan Gruba User Ekleme*
-
-* * *
-
-**[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
-
-> *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
-
-* * *
-
-**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
-
-> *IPTV üzerine Kendime Notlar*
 
 * * *
 
