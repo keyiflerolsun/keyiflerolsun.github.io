@@ -108,6 +108,12 @@
 
 * * *
 
+**[docker-compose_Yenir_Mi](https://github.com/keyiflerolsun/docker-compose_Yenir_Mi)**
+
+> *docker-compose » Python (Flask Restful) & PHP Örnek Deposu*
+
+* * *
+
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
 > *Python - Requests » Spotify Takipçi Botu*
@@ -132,15 +138,15 @@
 
 * * *
 
-**[docker-compose_Yenir_Mi](https://github.com/keyiflerolsun/docker-compose_Yenir_Mi)**
-
-> *docker-compose » Python (Flask Restful) & PHP Örnek Deposu*
-
-* * *
-
 **[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
 
 > *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
+
+* * *
+
+**[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
+
+> *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
 
 * * *
 
@@ -159,6 +165,12 @@
 **[Kekik](https://github.com/keyiflerolsun/Kekik)**
 
 > *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
+
+* * *
+
+**[Depremzedem](https://github.com/keyiflerolsun/Depremzedem)**
+
+> *depremzedem.com Fork*
 
 * * *
 
