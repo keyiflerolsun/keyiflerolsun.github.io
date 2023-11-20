@@ -48,6 +48,12 @@
 
 * * *
 
+**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
+
+> *IPTV üzerine Kendime Notlar*
+
+* * *
+
 **[Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
 
 > *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
@@ -63,12 +69,6 @@
 **[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
 
 > *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
-
-* * *
-
-**[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
-
-> *IPTV üzerine Kendime Notlar*
 
 * * *
 
