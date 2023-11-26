@@ -30,15 +30,15 @@
 
 * * *
 
-**[BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
-
-> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
-
-* * *
-
 **[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
 
 > *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
+
+* * *
+
+**[BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
+
+> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
 
 * * *
 
@@ -114,6 +114,12 @@
 
 * * *
 
+**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
+
+> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
+
+* * *
+
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
 > *Python - Requests » Spotify Takipçi Botu*
@@ -135,12 +141,6 @@
 **[Telegram-Telefon-Ayiklayici](https://github.com/keyiflerolsun/Telegram-Telefon-Ayiklayici)**
 
 > *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
-
-* * *
-
-**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
-
-> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
 
 * * *
 
