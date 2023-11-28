@@ -168,12 +168,6 @@
 
 * * *
 
-**[Depremzedem](https://github.com/keyiflerolsun/Depremzedem)**
-
-> *depremzedem.com Fork*
-
-* * *
-
 **[KekikHava](https://github.com/keyiflerolsun/KekikHava)**
 
 > *@flet-dev Örnek Proje*
