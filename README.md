@@ -24,15 +24,15 @@
 
 * * *
 
-**[eFatura](https://github.com/keyiflerolsun/eFatura)**
-
-> *Vergi veya TC Kimlik Numarasından E-Fatura Mükellefiyet Sorgusu*
-
-* * *
-
 **[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
 
 > *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
+
+* * *
+
+**[eFatura](https://github.com/keyiflerolsun/eFatura)**
+
+> *Vergi veya TC Kimlik Numarasından E-Fatura Mükellefiyet Sorgusu*
 
 * * *
 
@@ -168,15 +168,15 @@
 
 * * *
 
-**[KekikHava](https://github.com/keyiflerolsun/KekikHava)**
+**[Depremzedem](https://github.com/keyiflerolsun/Depremzedem)**
 
-> *@flet-dev Örnek Proje*
+> *depremzedem.com Fork*
 
 * * *
 
-**[KekikRadyo](https://github.com/keyiflerolsun/KekikRadyo)**
+**[KekikHava](https://github.com/keyiflerolsun/KekikHava)**
 
-> *KekikKahve Radyocu Ablası - Telegram Sesli Sohbet Radyo Botu*
+> *@flet-dev Örnek Proje*
 
 * * *
 
