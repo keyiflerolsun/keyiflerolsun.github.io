@@ -102,6 +102,12 @@
 
 * * *
 
+**[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
+
+> *Python - Requests » Spotify Takipçi Botu*
+
+* * *
+
 **[keyifTk](https://github.com/keyiflerolsun/keyifTk)**
 
 > *Tkinter Taban Dosyaları*
@@ -117,12 +123,6 @@
 **[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
 
 > *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
-
-* * *
-
-**[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
-
-> *Python - Requests » Spotify Takipçi Botu*
 
 * * *
 
