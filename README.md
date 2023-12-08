@@ -54,6 +54,12 @@
 
 * * *
 
+**[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
+
+> *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
+
+* * *
+
 **[Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
 
 > *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
@@ -63,12 +69,6 @@
 **[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
 
 > *Instant Data Scraper - Türkçe ve Karanlık Tema Mod*
-
-* * *
-
-**[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
-
-> *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
 
 * * *
 
