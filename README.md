@@ -18,15 +18,15 @@
 
 * * *
 
-**[pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol)**
-
-> *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
-
-* * *
-
 **[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
 
 > *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
+
+* * *
+
+**[pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol)**
+
+> *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
 
 * * *
 
