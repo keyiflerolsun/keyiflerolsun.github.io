@@ -12,15 +12,15 @@
 
 * * *
 
-**[pyHES](https://github.com/keyiflerolsun/pyHES)**
-
-> *⚕ Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
-
-* * *
-
 **[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
 
 > *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
+
+* * *
+
+**[pyHES](https://github.com/keyiflerolsun/pyHES)**
+
+> *⚕ Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
 
 * * *
 
