@@ -66,15 +66,15 @@
 
 * * *
 
-**[Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
-
-> *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
-
-* * *
-
 **[KekikSuser](https://github.com/keyiflerolsun/KekikSuser)**
 
 > *Telegram Gruptan Gruba User Ekleme*
+
+* * *
+
+**[Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
+
+> *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
 
 * * *
 
