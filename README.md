@@ -18,15 +18,15 @@
 
 * * *
 
-**[pyHES](https://github.com/keyiflerolsun/pyHES)**
-
-> *⚕ Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
-
-* * *
-
 **[pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol)**
 
 > *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
+
+* * *
+
+**[pyHES](https://github.com/keyiflerolsun/pyHES)**
+
+> *⚕ Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
 
 * * *
 
