@@ -6,15 +6,15 @@
 
 ***
 
-**[KekikSpatula](https://github.com/keyiflerolsun/KekikSpatula)**
-
-> *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
-
-* * *
-
 **[Kekik-cloudstream](https://github.com/keyiflerolsun/Kekik-cloudstream)**
 
 > *CloudStream için Türkçe yayın yapan sitelere ait eklentiler*
+
+* * *
+
+**[KekikSpatula](https://github.com/keyiflerolsun/KekikSpatula)**
+
+> *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
 
 * * *
 
