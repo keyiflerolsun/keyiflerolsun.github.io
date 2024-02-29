@@ -144,15 +144,15 @@
 
 * * *
 
-**[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
-
-> *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
-
-* * *
-
 **[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
 
 > *Python Lib for Keenetic Routers*
+
+* * *
+
+**[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
+
+> *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
 
 * * *
 
