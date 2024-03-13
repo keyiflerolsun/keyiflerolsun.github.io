@@ -114,12 +114,6 @@
 
 * * *
 
-**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
-
-> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
-
-* * *
-
 **[KolektifAPI](https://github.com/keyiflerolsun/KolektifAPI)**
 
 > *Flask Tabanlı KekikSpatula API*
@@ -147,6 +141,12 @@
 **[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
 
 > *Python Lib for Keenetic Routers*
+
+* * *
+
+**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
+
+> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
 
 * * *
 
