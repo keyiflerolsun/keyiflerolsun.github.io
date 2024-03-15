@@ -150,6 +150,12 @@
 
 * * *
 
+**[Kekik](https://github.com/keyiflerolsun/Kekik)**
+
+> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
+
+* * *
+
 **[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
 
 > *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
@@ -159,12 +165,6 @@
 **[SambaPOS_Ucretsiz](https://github.com/keyiflerolsun/SambaPOS_Ucretsiz)**
 
 > *SambaPOS V4 Full Veritabanı*
-
-* * *
-
-**[Kekik](https://github.com/keyiflerolsun/Kekik)**
-
-> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
 
 * * *
 
