@@ -84,6 +84,12 @@
 
 * * *
 
+**[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
+
+> *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
+
+* * *
+
 **[SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram)**
 
 > *Telegram Biyografinizde Ne Dinliyorum Özelliği..*
@@ -99,12 +105,6 @@
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
 > *Python - Requests » Spotify Takipçi Botu*
-
-* * *
-
-**[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
-
-> *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
 
 * * *
 
