@@ -2,6 +2,7 @@
 
 *Çay olur, çorba olur, fitre olur, zekat olur; kenarda dursun, belki bişi denemek isteyen olur.. 🕊*
 
+### ☕ **— [buymeacoffee](https://www.buymeacoffee.com/keyiflerolsun) —**
 
 | Banka                | IBAN                                          | Ad Soyad            |
 |:---------------------|:----------------------------------------------|:--------------------|
@@ -10,9 +11,6 @@
 | **» BTC**            | `17gorQkpoSAZMghKiFS7T7pRrYWTdJoyUm`          | *BTC*               |
 | **» BNB**            | `0xd64ce453b2ac9bae428cd952e33d74ddeba41d82`  | *BEP20*             |
 | **» USDT**           | `TMsemB3vnVBwLqzruKeY9mDweBRQ7FH81d`          | *TRC20*             |
-
-
-### 💸 **— [PayTR](https://www.paytr.com/link/PUDoFkP) | [iyzico](https://shopier.com/5371982) | [Shopier](https://shopier.com/5371982) —**
 
 * * *
 
