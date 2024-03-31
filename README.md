@@ -144,6 +144,12 @@
 
 * * *
 
+**[SambaPOS_Ucretsiz](https://github.com/keyiflerolsun/SambaPOS_Ucretsiz)**
+
+> *SambaPOS V4 Full Veritabanı*
+
+* * *
+
 **[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
 
 > *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
@@ -159,12 +165,6 @@
 **[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
 
 > *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
-
-* * *
-
-**[SambaPOS_Ucretsiz](https://github.com/keyiflerolsun/SambaPOS_Ucretsiz)**
-
-> *SambaPOS V4 Full Veritabanı*
 
 * * *
 
