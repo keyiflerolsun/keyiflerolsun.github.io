@@ -8,9 +8,6 @@
 |:---------------------|:----------------------------------------------|:--------------------|
 | **» EnPara**         | **TR**`70 0011 1000 0000 0118 5102 59`        | *Ömer Faruk Sancak* |
 | **» Papara**         | `2146190740`                                  | *Ömer Faruk Sancak* |
-| **» BTC**            | `17gorQkpoSAZMghKiFS7T7pRrYWTdJoyUm`          | *BTC*               |
-| **» BNB**            | `0xd64ce453b2ac9bae428cd952e33d74ddeba41d82`  | *BEP20*             |
-| **» USDT**           | `TMsemB3vnVBwLqzruKeY9mDweBRQ7FH81d`          | *TRC20*             |
 
 * * *
 
