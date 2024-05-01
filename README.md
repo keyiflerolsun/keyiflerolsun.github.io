@@ -60,15 +60,15 @@
 
 * * *
 
-**[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
-
-> *Instant Data Scraper - Türkçe ve Karanlık Tema Mod*
-
-* * *
-
 **[KekikSuser](https://github.com/keyiflerolsun/KekikSuser)**
 
 > *Telegram Gruptan Gruba User Ekleme*
+
+* * *
+
+**[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
+
+> *Instant Data Scraper - Türkçe ve Karanlık Tema Mod*
 
 * * *
 
