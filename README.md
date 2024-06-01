@@ -162,6 +162,12 @@
 
 * * *
 
+**[keenetic-grafana-monitoring](https://github.com/keyiflerolsun/keenetic-grafana-monitoring)**
+
+> *Keenetic Sistemlerinizi Grafana ve InfluxDB ile izleyin*
+
+* * *
+
 **[Kekik](https://github.com/keyiflerolsun/Kekik)**
 
 > *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
