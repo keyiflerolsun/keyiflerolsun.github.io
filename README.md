@@ -24,15 +24,15 @@
 
 * * *
 
-**[pyHES](https://github.com/keyiflerolsun/pyHES)**
-
-> *⚕ Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
-
-* * *
-
 **[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
 
 > *IPTV üzerine Kendime Notlar*
+
+* * *
+
+**[pyHES](https://github.com/keyiflerolsun/pyHES)**
+
+> *⚕ Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
 
 * * *
 
