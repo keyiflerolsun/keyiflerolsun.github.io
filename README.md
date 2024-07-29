@@ -18,15 +18,15 @@
 
 * * *
 
-**[pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol)**
-
-> *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
-
-* * *
-
 **[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
 
 > *IPTV üzerine Kendime Notlar*
+
+* * *
+
+**[pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol)**
+
+> *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
 
 * * *
 
