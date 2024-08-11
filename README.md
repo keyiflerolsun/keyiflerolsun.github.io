@@ -96,6 +96,12 @@
 
 * * *
 
+**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
+
+> *Python Lib for Keenetic Routers*
+
+* * *
+
 **[.dotfiles](https://github.com/keyiflerolsun/.dotfiles)**
 
 > */etc/keyiflerolsun*
@@ -105,12 +111,6 @@
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
 > *Python - Requests » Spotify Takipçi Botu*
-
-* * *
-
-**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
-
-> *Python Lib for Keenetic Routers*
 
 * * *
 
