@@ -66,39 +66,27 @@
 
 * * *
 
-**[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
-
-> *Instant Data Scraper - Türkçe ve Karanlık Tema Mod*
-
-* * *
-
 **[eArsivPortal](https://github.com/keyiflerolsun/eArsivPortal)**
 
 > *GİB e-Arşiv Portal e-Fatura Oluşturucu*
 
 * * *
 
-**[Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
+**[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
 
-> *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
-
-* * *
-
-**[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
-
-> *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
-
-* * *
-
-**[SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram)**
-
-> *Telegram Biyografinizde Ne Dinliyorum Özelliği..*
+> *Instant Data Scraper - Türkçe ve Karanlık Tema Mod*
 
 * * *
 
 **[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
 
 > *Python Lib for Keenetic Routers*
+
+* * *
+
+**[Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
+
+> *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
 
 * * *
 
@@ -114,6 +102,18 @@
 
 * * *
 
+**[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
+
+> *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
+
+* * *
+
+**[SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram)**
+
+> *Telegram Biyografinizde Ne Dinliyorum Özelliği..*
+
+* * *
+
 **[docker-compose_Yenir_Mi](https://github.com/keyiflerolsun/docker-compose_Yenir_Mi)**
 
 > *docker-compose » Python (Flask Restful) & PHP Örnek Deposu*
@@ -123,6 +123,18 @@
 **[SambaPOS_Ucretsiz](https://github.com/keyiflerolsun/SambaPOS_Ucretsiz)**
 
 > *SambaPOS V4 Full Veritabanı*
+
+* * *
+
+**[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
+
+> *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
+
+* * *
+
+**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
+
+> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
 
 * * *
 
@@ -150,27 +162,9 @@
 
 * * *
 
-**[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
-
-> *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
-
-* * *
-
-**[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
-
-> *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
-
-* * *
-
 **[ythls-FastAPI](https://github.com/keyiflerolsun/ythls-FastAPI)**
 
 > *Creates a permanent link for the live feed (HLS/m3u8) of a Youtube channel or video*
-
-* * *
-
-**[Kekik](https://github.com/keyiflerolsun/Kekik)**
-
-> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
 
 * * *
 
@@ -186,33 +180,9 @@
 
 * * *
 
-**[KekikHava](https://github.com/keyiflerolsun/KekikHava)**
-
-> *@flet-dev Örnek Proje*
-
-* * *
-
 **[KekikRadyo](https://github.com/keyiflerolsun/KekikRadyo)**
 
 > *KekikKahve Radyocu Ablası - Telegram Sesli Sohbet Radyo Botu*
-
-* * *
-
-**[InstaRehber](https://github.com/keyiflerolsun/InstaRehber)**
-
-> *Instagram'ın Yedeklediği Rehberin Çeşitli Formatlarda Geri Dönüşümü*
-
-* * *
-
-**[PlusAPI](https://github.com/keyiflerolsun/PlusAPI)**
-
-> *PlusAPI - Piyasa Verileri - Python*
-
-* * *
-
-**[pySistemEkrani](https://github.com/keyiflerolsun/pySistemEkrani)**
-
-> *Çevrimiçi Sistem Bilgi Ekranı (Açıklama Eklenecek)*
 
 * * *
 
