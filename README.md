@@ -126,6 +126,12 @@
 
 * * *
 
+**[keenetic-grafana-monitoring](https://github.com/keyiflerolsun/keenetic-grafana-monitoring)**
+
+> *Keenetic Sistemlerinizi Grafana ve InfluxDB ile izleyin*
+
+* * *
+
 **[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
 
 > *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
@@ -165,12 +171,6 @@
 **[ythls-FastAPI](https://github.com/keyiflerolsun/ythls-FastAPI)**
 
 > *Creates a permanent link for the live feed (HLS/m3u8) of a Youtube channel or video*
-
-* * *
-
-**[keenetic-grafana-monitoring](https://github.com/keyiflerolsun/keenetic-grafana-monitoring)**
-
-> *Keenetic Sistemlerinizi Grafana ve InfluxDB ile izleyin*
 
 * * *
 
