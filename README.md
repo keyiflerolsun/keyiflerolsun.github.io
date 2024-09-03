@@ -96,6 +96,12 @@
 
 * * *
 
+**[Kekik](https://github.com/keyiflerolsun/Kekik)**
+
+> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
+
+* * *
+
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
 > *Python - Requests » Spotify Takipçi Botu*
@@ -111,12 +117,6 @@
 **[SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram)**
 
 > *Telegram Biyografinizde Ne Dinliyorum Özelliği..*
-
-* * *
-
-**[Kekik](https://github.com/keyiflerolsun/Kekik)**
-
-> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
 
 * * *
 
