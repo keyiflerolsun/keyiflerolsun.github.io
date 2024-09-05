@@ -54,6 +54,12 @@
 
 * * *
 
+**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
+
+> *Python Lib for Keenetic Routers*
+
+* * *
+
 **[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
 
 > *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
@@ -63,12 +69,6 @@
 **[KekikSuser](https://github.com/keyiflerolsun/KekikSuser)**
 
 > *Telegram Gruptan Gruba User Ekleme*
-
-* * *
-
-**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
-
-> *Python Lib for Keenetic Routers*
 
 * * *
 
