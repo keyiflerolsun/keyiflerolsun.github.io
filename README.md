@@ -12,15 +12,15 @@
 
 * * *
 
-**[KekikSpatula](https://github.com/keyiflerolsun/KekikSpatula)**
-
-> *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
-
-* * *
-
 **[IPTV_YenirMi](https://github.com/keyiflerolsun/IPTV_YenirMi)**
 
 > *IPTV üzerine Kendime Notlar*
+
+* * *
+
+**[KekikSpatula](https://github.com/keyiflerolsun/KekikSpatula)**
+
+> *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
 
 * * *
 
@@ -84,6 +84,12 @@
 
 * * *
 
+**[ythls-FastAPI](https://github.com/keyiflerolsun/ythls-FastAPI)**
+
+> *Creates a permanent link for the live feed (HLS/m3u8) of a Youtube channel or video*
+
+* * *
+
 **[Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
 
 > *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
@@ -93,12 +99,6 @@
 **[.dotfiles](https://github.com/keyiflerolsun/.dotfiles)**
 
 > */etc/keyiflerolsun*
-
-* * *
-
-**[ythls-FastAPI](https://github.com/keyiflerolsun/ythls-FastAPI)**
-
-> *Creates a permanent link for the live feed (HLS/m3u8) of a Youtube channel or video*
 
 * * *
 
