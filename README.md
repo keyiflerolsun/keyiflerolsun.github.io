@@ -90,6 +90,12 @@
 
 * * *
 
+**[Kekik](https://github.com/keyiflerolsun/Kekik)**
+
+> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
+
+* * *
+
 **[Risk-Yasak_Haritasi](https://github.com/keyiflerolsun/Risk-Yasak_Haritasi)**
 
 > *Sağlık Bakanlığı Verileri Işığında, Flask - jS iş birliği ile Risk ve Yasak Haritası*
@@ -99,12 +105,6 @@
 **[.dotfiles](https://github.com/keyiflerolsun/.dotfiles)**
 
 > */etc/keyiflerolsun*
-
-* * *
-
-**[Kekik](https://github.com/keyiflerolsun/Kekik)**
-
-> *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
 
 * * *
 
