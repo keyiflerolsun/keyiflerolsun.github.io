@@ -108,12 +108,6 @@
 
 * * *
 
-**[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
-
-> *Python - Requests » Spotify Takipçi Botu*
-
-* * *
-
 **[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
 
 > *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
@@ -129,6 +123,12 @@
 **[SambaPOS_Ucretsiz](https://github.com/keyiflerolsun/SambaPOS_Ucretsiz)**
 
 > *SambaPOS V4 Full Veritabanı*
+
+* * *
+
+**[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
+
+> *Python - Requests » Spotify Takipçi Botu*
 
 * * *
 
