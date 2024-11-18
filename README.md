@@ -72,15 +72,15 @@
 
 * * *
 
-**[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
-
-> *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
-
-* * *
-
 **[eArsivPortal](https://github.com/keyiflerolsun/eArsivPortal)**
 
 > *GİB e-Arşiv Portal e-Fatura Oluşturucu*
+
+* * *
+
+**[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
+
+> *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
 
 * * *
 
