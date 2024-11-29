@@ -54,15 +54,15 @@
 
 * * *
 
-**[KekikSuser](https://github.com/keyiflerolsun/KekikSuser)**
-
-> *Telegram Gruptan Gruba User Ekleme*
-
-* * *
-
 **[ythls-FastAPI](https://github.com/keyiflerolsun/ythls-FastAPI)**
 
 > *Creates a permanent link for the live feed (HLS/m3u8) of a Youtube channel or video*
+
+* * *
+
+**[KekikSuser](https://github.com/keyiflerolsun/KekikSuser)**
+
+> *Telegram Gruptan Gruba User Ekleme*
 
 * * *
 
@@ -129,6 +129,12 @@
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
 > *Python - Requests » Spotify Takipçi Botu*
+
+* * *
+
+**[KekikStream](https://github.com/keyiflerolsun/KekikStream)**
+
+> *terminal üzerinden medya içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla doğrudan izlemenizi sağlayan modüler ve genişletilebilir bir bıdı bıdı*
 
 * * *
 
