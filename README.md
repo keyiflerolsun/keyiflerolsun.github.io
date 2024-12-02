@@ -84,6 +84,12 @@
 
 * * *
 
+**[KekikStream](https://github.com/keyiflerolsun/KekikStream)**
+
+> *terminal üzerinden medya içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla doğrudan izlemenizi sağlayan modüler ve genişletilebilir bir bıdı bıdı*
+
+* * *
+
 **[Kekik](https://github.com/keyiflerolsun/Kekik)**
 
 > *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
@@ -93,12 +99,6 @@
 **[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
 
 > *Instant Data Scraper - Türkçe ve Karanlık Tema Mod*
-
-* * *
-
-**[KekikStream](https://github.com/keyiflerolsun/KekikStream)**
-
-> *terminal üzerinden medya içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla doğrudan izlemenizi sağlayan modüler ve genişletilebilir bir bıdı bıdı*
 
 * * *
 
