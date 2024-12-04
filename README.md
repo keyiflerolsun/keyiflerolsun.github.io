@@ -66,6 +66,12 @@
 
 * * *
 
+**[KekikStream](https://github.com/keyiflerolsun/KekikStream)**
+
+> *terminal üzerinden medya içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla doğrudan izlemenizi sağlayan modüler ve genişletilebilir bir bıdı bıdı*
+
+* * *
+
 **[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
 
 > *Python Lib for Keenetic Routers*
@@ -81,12 +87,6 @@
 **[eArsivPortal](https://github.com/keyiflerolsun/eArsivPortal)**
 
 > *GİB e-Arşiv Portal e-Fatura Oluşturucu*
-
-* * *
-
-**[KekikStream](https://github.com/keyiflerolsun/KekikStream)**
-
-> *terminal üzerinden medya içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla doğrudan izlemenizi sağlayan modüler ve genişletilebilir bir bıdı bıdı*
 
 * * *
 
