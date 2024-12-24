@@ -126,6 +126,12 @@
 
 * * *
 
+**[keenetic-grafana-monitoring](https://github.com/keyiflerolsun/keenetic-grafana-monitoring)**
+
+> *Keenetic Sistemlerinizi Grafana ve InfluxDB ile izleyin*
+
+* * *
+
 **[SambaPOS_Ucretsiz](https://github.com/keyiflerolsun/SambaPOS_Ucretsiz)**
 
 > *SambaPOS V4 Full Veritabanı*
@@ -141,12 +147,6 @@
 **[docker-compose_Yenir_Mi](https://github.com/keyiflerolsun/docker-compose_Yenir_Mi)**
 
 > *docker-compose » Python (Flask Restful) & PHP Örnek Deposu*
-
-* * *
-
-**[keenetic-grafana-monitoring](https://github.com/keyiflerolsun/keenetic-grafana-monitoring)**
-
-> *Keenetic Sistemlerinizi Grafana ve InfluxDB ile izleyin*
 
 * * *
 
