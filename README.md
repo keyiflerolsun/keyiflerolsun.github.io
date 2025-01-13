@@ -42,15 +42,15 @@
 
 * * *
 
-**[BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
-
-> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
-
-* * *
-
 **[KekikStream](https://github.com/keyiflerolsun/KekikStream)**
 
 > *terminal üzerinden medya içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla doğrudan izlemenizi sağlayan modüler ve genişletilebilir bir bıdı bıdı*
+
+* * *
+
+**[BTKSorgu](https://github.com/keyiflerolsun/BTKSorgu)**
+
+> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
 
 * * *
 
