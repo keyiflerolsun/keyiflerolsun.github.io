@@ -78,15 +78,15 @@
 
 * * *
 
-**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
-
-> *Python Lib for Keenetic Routers*
-
-* * *
-
 **[Kekik](https://github.com/keyiflerolsun/Kekik)**
 
 > *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
+
+* * *
+
+**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
+
+> *Python Lib for Keenetic Routers*
 
 * * *
 
