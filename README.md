@@ -72,15 +72,15 @@
 
 * * *
 
-**[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
-
-> *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
-
-* * *
-
 **[Kekik](https://github.com/keyiflerolsun/Kekik)**
 
 > *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
+
+* * *
+
+**[CentOS_Proxi](https://github.com/keyiflerolsun/CentOS_Proxi)**
+
+> *Sunucunuzu Proxy Server'a Dönüştürün - 1 Adet IPv4 - 1 Adet SOCKS5 - İstediğiniz Kadar IPv6*
 
 * * *
 
