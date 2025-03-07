@@ -84,15 +84,15 @@
 
 * * *
 
-**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
-
-> *Python Lib for Keenetic Routers*
-
-* * *
-
 **[KekikSuser](https://github.com/keyiflerolsun/KekikSuser)**
 
 > *Telegram Gruptan Gruba User Ekleme*
+
+* * *
+
+**[KeeneticPy](https://github.com/keyiflerolsun/KeeneticPy)**
+
+> *Python Lib for Keenetic Routers*
 
 * * *
 
