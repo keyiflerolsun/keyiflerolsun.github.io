@@ -150,6 +150,12 @@
 
 * * *
 
+**[keyiflerolsun](https://github.com/keyiflerolsun/keyiflerolsun)**
+
+> *@KekikAkademi*
+
+* * *
+
 **[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
 
 > *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
@@ -183,12 +189,6 @@
 **[Telegram-Telefon-Ayiklayici](https://github.com/keyiflerolsun/Telegram-Telefon-Ayiklayici)**
 
 > *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
-
-* * *
-
-**[keyiflerolsun](https://github.com/keyiflerolsun/keyiflerolsun)**
-
-> *@KekikAkademi*
 
 * * *
 
