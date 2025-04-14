@@ -66,15 +66,15 @@
 
 * * *
 
-**[A101AktuelRobot](https://github.com/keyiflerolsun/A101AktuelRobot)**
-
-> *Github Workflows üzerinde Çalışan A101 Aktüel Telegam Bot*
-
-* * *
-
 **[Kekik](https://github.com/keyiflerolsun/Kekik)**
 
 > *İşlerimizi kolaylaştıracak fonksiyonların el altında durduğu kütüphane..*
+
+* * *
+
+**[A101AktuelRobot](https://github.com/keyiflerolsun/A101AktuelRobot)**
+
+> *Github Workflows üzerinde Çalışan A101 Aktüel Telegam Bot*
 
 * * *
 
