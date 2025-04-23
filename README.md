@@ -30,15 +30,15 @@
 
 * * *
 
-**[pyHES](https://github.com/keyiflerolsun/pyHES)**
-
-> *⚕ Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
-
-* * *
-
 **[eFatura](https://github.com/keyiflerolsun/eFatura)**
 
 > *Vergi veya TC Kimlik Numarasından E-Fatura Mükellefiyet Sorgusu*
+
+* * *
+
+**[pyHES](https://github.com/keyiflerolsun/pyHES)**
+
+> *⚕ Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
 
 * * *
 
