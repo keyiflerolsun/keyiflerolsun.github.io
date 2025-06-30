@@ -96,15 +96,15 @@
 
 * * *
 
-**[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
-
-> *Instant Data Scraper - Türkçe ve Karanlık Tema Mod*
-
-* * *
-
 **[.dotfiles](https://github.com/keyiflerolsun/.dotfiles)**
 
 > */etc/keyiflerolsun*
+
+* * *
+
+**[InstantVeriAyiklayici](https://github.com/keyiflerolsun/InstantVeriAyiklayici)**
+
+> *Instant Data Scraper - Türkçe ve Karanlık Tema Mod*
 
 * * *
 
