@@ -162,6 +162,12 @@
 
 * * *
 
+**[keyiflerolsun.github.io](https://github.com/keyiflerolsun/keyiflerolsun.github.io)**
+
+> *“Dik dur ve gülümse; Bırak neden gülümsediğini merak etsinler...” ~ Che Guevara*
+
+* * *
+
 **[CocukJarvis](https://github.com/keyiflerolsun/CocukJarvis)**
 
 > *ChatGPT API Kişisel Sesli Asistanı (Telegram Destekli)*
@@ -189,12 +195,6 @@
 **[Telegram-Telefon-Ayiklayici](https://github.com/keyiflerolsun/Telegram-Telefon-Ayiklayici)**
 
 > *Telegram'da dahil olduğunuz grup üyelerinin, telefon numarası gizli olmayanları dızz 🐍'layın..*
-
-* * *
-
-**[keyiflerolsun.github.io](https://github.com/keyiflerolsun/keyiflerolsun.github.io)**
-
-> *“Dik dur ve gülümse; Bırak neden gülümsediğini merak etsinler...” ~ Che Guevara*
 
 * * *
 
