@@ -39,6 +39,11 @@
 
 ### *Sağlıcakla kalın ve Özgür Kalın ✌🏼*
 
-* * *
+---
 
-## [@KekikAkademi](https://t.me/KekikAkademi) 🕊
+### [@KekikAkademi](https://t.me/KekikAkademi) 🕊
+
+
+---
+
+> ⚖️ [Hukuk Bürosu](https://kurulmazbarishan.com)
