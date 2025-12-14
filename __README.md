@@ -46,4 +46,4 @@
 
 ---
 
-> ⚖️ [Hukuk Bürosu](https://kurulmazbarishan.com)
+> ⚖️ [Karar Arama Platformu](https://karar.kurulmazbarishan.com)
