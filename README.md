@@ -24,15 +24,15 @@
 
 * * *
 
-**[pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol)**
-
-> *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
-
-* * *
-
 **[KekikStream](https://github.com/keyiflerolsun/KekikStream)**
 
 > *terminal üzerinden medya içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla doğrudan izlemenizi sağlayan modüler ve genişletilebilir bir bıdı bıdı*
+
+* * *
+
+**[pyTrendyol](https://github.com/keyiflerolsun/pyTrendyol)**
+
+> *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
 
 * * *
 
