@@ -150,12 +150,6 @@
 
 * * *
 
-**[KekikStreamAPI](https://github.com/keyiflerolsun/KekikStreamAPI)**
-
-> *Modern, Self-Hosted Medya Streaming Platformu Kendi yayın merkezinizi kurun, arkadaşlarınızla senkronize video izleyin! 🚀*
-
-* * *
-
 **[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
 
 > *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
