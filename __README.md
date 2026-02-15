@@ -46,4 +46,4 @@
 
 ---
 
-> ⚖️ [Karar Arama Platformu](https://karar.kurulmazbarishan.com)
+> 🍿 [Watch Buddy](https://watchbuddy.tv) | ⚖️ [Karar Arama Platformu](https://karar.kurulmazbarishan.com)
