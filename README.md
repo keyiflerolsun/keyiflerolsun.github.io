@@ -156,15 +156,15 @@
 
 * * *
 
-**[keyiflerolsun](https://github.com/keyiflerolsun/keyiflerolsun)**
-
-> *@KekikAkademi*
-
-* * *
-
 **[keyiflerolsun.github.io](https://github.com/keyiflerolsun/keyiflerolsun.github.io)**
 
 > *“Dik dur ve gülümse; Bırak neden gülümsediğini merak etsinler...” ~ Che Guevara*
+
+* * *
+
+**[keyiflerolsun](https://github.com/keyiflerolsun/keyiflerolsun)**
+
+> *@KekikAkademi*
 
 * * *
 
@@ -256,4 +256,4 @@
 
 ---
 
-> ⚖️ [Karar Arama Platformu](https://karar.kurulmazbarishan.com)
+> 🍿 [Watch Buddy](https://watchbuddy.tv) | ⚖️ [Karar Arama Platformu](https://karar.kurulmazbarishan.com)
