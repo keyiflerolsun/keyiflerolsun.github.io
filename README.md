@@ -198,6 +198,12 @@
 
 * * *
 
+**[KekikStreamAPI](https://github.com/keyiflerolsun/KekikStreamAPI)**
+
+> *Modern, self-hosted medya streaming platformu Kendi yayın merkezinizi kurun! 🚀*
+
+* * *
+
 **[rtmpie](https://github.com/keyiflerolsun/rtmpie)**
 
 > *Out-of-the-box RTMP streaming server with a clean and powerful web interface*
