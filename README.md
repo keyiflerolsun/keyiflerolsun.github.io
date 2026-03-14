@@ -138,15 +138,15 @@
 
 * * *
 
-**[SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram)**
-
-> *Telegram Biyografinizde Ne Dinliyorum Özelliği..*
-
-* * *
-
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
 > *Python - Requests » Spotify Takipçi Botu*
+
+* * *
+
+**[SpotiTelegram](https://github.com/keyiflerolsun/SpotiTelegram)**
+
+> *Telegram Biyografinizde Ne Dinliyorum Özelliği..*
 
 * * *
 
