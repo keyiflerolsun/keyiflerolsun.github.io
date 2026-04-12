@@ -150,15 +150,15 @@
 
 * * *
 
-**[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
-
-> *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
-
-* * *
-
 **[keyiflerolsun](https://github.com/keyiflerolsun/keyiflerolsun)**
 
 > *@KekikAkademi*
+
+* * *
+
+**[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
+
+> *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
 
 * * *
 
