@@ -156,6 +156,12 @@
 
 * * *
 
+**[KekikStreamAPI](https://github.com/keyiflerolsun/KekikStreamAPI)**
+
+> *Modern, self-hosted medya streaming platformu Kendi yayın merkezinizi kurun! 🚀*
+
+* * *
+
 **[NLP_Yenir_Mi](https://github.com/keyiflerolsun/NLP_Yenir_Mi)**
 
 > *Bu proje, dil işleme (NLP) konusunda temel bilgisi olmayan kişilere yönelik bir eğitim aracı olarak tasarlanmıştır.*
@@ -165,12 +171,6 @@
 **[keyiflerolsun.github.io](https://github.com/keyiflerolsun/keyiflerolsun.github.io)**
 
 > *“Dik dur ve gülümse; Bırak neden gülümsediğini merak etsinler...” ~ Che Guevara*
-
-* * *
-
-**[KekikStreamAPI](https://github.com/keyiflerolsun/KekikStreamAPI)**
-
-> *Modern, self-hosted medya streaming platformu Kendi yayın merkezinizi kurun! 🚀*
 
 * * *
 
