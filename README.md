@@ -138,6 +138,12 @@
 
 * * *
 
+**[KekikStreamAPI](https://github.com/keyiflerolsun/KekikStreamAPI)**
+
+> *Modern, self-hosted medya streaming platformu Kendi yayın merkezinizi kurun! 🚀*
+
+* * *
+
 **[SpotifyTakipci](https://github.com/keyiflerolsun/SpotifyTakipci)**
 
 > *Python - Requests » Spotify Takipçi Botu*
@@ -153,12 +159,6 @@
 **[keyiflerolsun](https://github.com/keyiflerolsun/keyiflerolsun)**
 
 > *@KekikAkademi*
-
-* * *
-
-**[KekikStreamAPI](https://github.com/keyiflerolsun/KekikStreamAPI)**
-
-> *Modern, self-hosted medya streaming platformu Kendi yayın merkezinizi kurun! 🚀*
 
 * * *
 
