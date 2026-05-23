@@ -120,6 +120,12 @@
 
 * * *
 
+**[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
+
+> *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
+
+* * *
+
 **[docker-compose_Yenir_Mi](https://github.com/keyiflerolsun/docker-compose_Yenir_Mi)**
 
 > *docker-compose » Python (Flask Restful) & PHP Örnek Deposu*
@@ -129,12 +135,6 @@
 **[keenetic-grafana-monitoring](https://github.com/keyiflerolsun/keenetic-grafana-monitoring)**
 
 > *Keenetic Sistemlerinizi Grafana ve InfluxDB ile izleyin*
-
-* * *
-
-**[TRSehirler](https://github.com/keyiflerolsun/TRSehirler)**
-
-> *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
 
 * * *
 
